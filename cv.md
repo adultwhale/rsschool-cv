@@ -29,8 +29,8 @@ return ''.join([s.capitalize() if i != 0 else s for i, s in enumerate(text.repla
 
 
 ## Courses
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-* HTML Academy (in progress)
+* **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
+* **HTML Academy** (in progress)
 
 
 ## Language
